@@ -1,0 +1,6 @@
+#Lambda Function Project Metadata
+#Tue Sep 06 10:32:49 PDT 2016
+lastDeploymentFunctionName=hellolambda
+lastDeploymentBucketName=kylef
+lastDeploymentEndpoint=https\://lambda.us-east-1.amazonaws.com/
+lastInvokeInput="Santhosh"
